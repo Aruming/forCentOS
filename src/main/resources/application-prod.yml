@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:mariadb://172.17.0.1:3306/centos?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=Asia/Seoul
-    username: Aruming
-    password: Aruming
+    username: Aruminglocal
+    password: Aruming1234
   jpa:
     hibernate:
       ddl-auto: none
